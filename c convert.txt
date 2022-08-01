@@ -1,0 +1,4 @@
+Win64: x86_64-w64-mingw32-g++ easyc.cpp -o easy.exe
+Win32: i686-w64-mingw32-g++ easyc.cpp -o easy.exe
+Linux: g++ easyc.cpp -o easyc vcMac: g++ easyc.cpp -o easyc
+BSD: g++ easyc.cpp -o easyc 
